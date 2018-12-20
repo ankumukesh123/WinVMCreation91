@@ -3,7 +3,7 @@ Login-AzureRmAccount
 # Variables for common values
 $resourceGroup = "myResourceGroup91"
 $location = "westeurope"
-$vmName = "myVM1991"
+$vmName = "myVM11"
 
 # Create user object
 $cred = Get-Credential -Message "Enter a username and password for the virtual machine."
